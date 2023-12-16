@@ -16,7 +16,7 @@ Christina B
 ---
 
 <h1>
-  hey there
+  hey creeper
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -27,7 +27,7 @@ Christina B
 ---
 
 ### :woman_technologist: About Me :
-Scientist of microbiology and infectious disease, currently looking to upskill and move into the data science sector. 
+Scientist of microbiology and infectious disease, upskilling in bioinformatics and data science.
 
 ---
 
